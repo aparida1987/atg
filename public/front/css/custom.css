@@ -1,0 +1,261 @@
+	.login-register .panel {
+    margin-top: 58px; 
+	}
+	label.my_label  {
+    margin-left: 19px !important;
+}
+
+.my_btn {
+    background-color: #fe053b;
+    border-color: #ff4500;
+    color: #ffffff;
+    font-family: open sans;
+    font-size: 16px;
+    padding: 5px 24px;
+    width: auto;
+}
+span.t_c {
+    margin-left: 14px;
+}
+
+.col-md-12.chckbx {
+    margin-bottom: 10px;
+}
+label.or {
+    margin-left: -27px;
+}
+
+a.btn.btn-primary.btn_lnk { 
+    margin-top: 7px;
+}
+
+ 
+/*------------------login-page-css--start--------------------------*/
+.user-login .panel {
+    box-shadow: none !important;
+}
+.flow-grid {
+    background: #f9f9f9 ;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 10px;
+    width: 100%;
+}
+.flow-grid p {
+    color: #666666;margin-bottom:0px;
+    font-weight: 400;
+    line-height: 20px;font-size:17px; text-align:left;
+    padding: 5px;
+}
+.flow-arrow i {
+    color: #fe053b;
+    font-size: 24px;
+    height: 65px;
+    line-height: 65px;
+}
+.login-register .panel-heading {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    font-family: "Open Sans",sans-serif;
+    font-size: 20px;
+    margin: 10px 0; font-weight: 600;
+    text-align: center;
+    text-transform: capitalize;
+}
+.login-register .form-group {
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+    width: 100%;
+}
+.login-register .checkbox input {
+    margin: 0;
+    position: relative;
+}
+.login-register .checkbox label::before {
+    background-color: #ffffff;
+    border: 1px solid #ed0f0f;
+    border-radius: 3px;
+    content: "";
+    display: none;
+    height: 14px;
+    left: 2px;
+    margin-left: 0;
+    position: absolute;
+    top: 2px;
+    transition: border 0.15s ease-in-out 0s, color 0.15s ease-in-out 0s;
+    width: 14px;
+}
+
+.col-md-12.page-title.ABT {
+    margin-left: -19px;
+}
+
+.share-red-1 {
+    background: #fe053b;
+    padding: 7px 10px;
+    display: inline-block;
+    border-radius: 4px;
+    color: #fff;
+}
+.breadcrumb {
+    margin-bottom: 3px !important;
+}
+
+a.prchs {
+    background: green;
+    padding: 11px 18px 13px 12px;
+    color: #FFF;
+    margin: 2px;
+    display: inline-block;
+}
+
+ .top-head {border-bottom: 2px solid rgb(153, 153, 153);color: rgb(255, 51, 0);font-size: 30px;font-weight: 600;padding-bottom: 5px;padding-top: 0;}
+
+ .company-list-1 {margin-bottom: 15px;}
+ .top-sub-head {
+    color: rgb(51, 51, 51);
+    font-size: 18px;
+    padding: 15px 0 0;
+}
+ 
+ .company-one {
+    display: inline-block;
+    margin-right: 26px;
+    vertical-align: top;
+    width: 23%;
+}
+ .company-one:last-child {
+    margin-right: 0;
+}
+ 
+ .business-left > a {color: rgb(51, 51, 51);font-size: 20px;font-weight: 700;text-transform: uppercase;text-decoration:none;}
+	.business-left .fa.fa-pencil-square-o {color: rgb(145, 145, 145);}
+	.business-acc .acc-no {font-size: 20px;font-weight: 600;}
+	.acc-no .right-market {border: 2px solid rgb(254, 6, 59);border-radius: 6px;color: rgb(254, 6, 59);float: right;font-size: 15px;font-weight: 600;padding: 7px 45px;text-align: center;margin-top:-10px;}
+	.energy-spl-chain-2 {background: none repeat scroll 0 0 rgb(249, 249, 249);font-size: 24px;font-weight: 700;margin: 0 0 16px;padding: 14px 0 14px 20px;text-transform: uppercase;}
+	.business-left h4 {margin-top: 24px;margin-bottom:13px;font-weight:600;}
+	.acc-no > span {font-weight: 700;font-size:16px;}
+	.pro-ser {color: rgb(119, 119, 119);font-size: 18px;font-weight: 600;margin-top: 22px;font-size:15px;text-transform:uppercase;}
+	.business-des > h4 {font-weight: 700;margin-bottom: 4px;}
+	.business-des > p {font-weight: normal;font-size:15px;}
+	.product-cat {font-weight: 600 !important;}
+	.table-section {margin: 36px 0px;}
+	.business-left > p {font-size: 16px;}
+ 
+ 
+ 	/* 
+Generic Styling, for Desktops/Laptops 
+*/
+.table-section table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+.table-section tr:nth-of-type(even) { 
+  background: #eee; 
+}
+.table-section th { 
+  background: #aaa; 
+  color: white; 
+  font-weight: bold; 
+}
+	.table-section td, .table-section th {padding: 6px;font-size:15px;border: 1px solid #ccc;text-align: center; }
+	.table-section td{color:#777;padding:20px 0px;font-weight:600;}
+	.table-section th {padding:7px;}
+	.row.tabble-part {margin-top: 20px;}
+	.share-icon {color: rgb(255, 51, 0);}
+	.like-icon {color: rgb(55, 179, 127);padding-right: 12px;}
+	.all-view span:first-child {padding: 0 4px;}
+	.all-view span:last-child {padding: 0 6px 0 4px;}
+	.offline {color: rgb(204, 204, 204);}
+	.renew {color: rgb(55, 179, 127);}
+	.delete {color: rgb(254, 6, 59);}
+	.online{color:#ff3300;}
+	.business-des > h4 {font-weight: 700;}
+	.date-1 {color: rgb(254, 6, 59);}
+@media only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	.table-section table, .table-section thead, .table-section tbody, .table-section th, .table-section td, .table-section tr { 
+		display: block; 
+	}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	.table-section thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	.table-section tr { border: 1px solid #ccc; }
+	
+	.table-section td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	.table-section td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+	
+	/*
+	Label the data
+	*/
+	.table-section td:nth-of-type(1):before { content: "First Name"; }
+	.table-section td:nth-of-type(2):before { content: "Last Name"; }
+	.table-section td:nth-of-type(3):before { content: "Job Title"; }
+	.table-section td:nth-of-type(4):before { content: "Favorite Color"; }
+	.table-section td:nth-of-type(5):before { content: "Wars of Trek?"; }
+	.table-section td:nth-of-type(6):before { content: "Porn Name"; }
+	.table-section td:nth-of-type(7):before { content: "Date of Birth"; }
+	.table-section td:nth-of-type(8):before { content: "Dream Vacation City"; }
+	.table-section td:nth-of-type(9):before { content: "GPA"; }
+	.table-section td:nth-of-type(10):before { content: "Arbitrary Data"; }
+}
+/******************************/
+
+ span.right-market.cmp {
+    margin-top: -66px;
+    background: bisque;
+    padding-right: 13px;
+}
+ .hlo-buttun a {background:#fe053b ;border-radius: 5px;color: rgb(255, 255, 255);float: right;font-size: 16px;font-weight: 600;margin: 45px 0 35px;padding: 10px;text-decoration: none;}
+	.energy-spl-chain {background: none repeat scroll 0 0 rgb(249, 249, 249);font-size: 24px;font-weight: 700;margin:0 0 30px 0;padding:14px 0 14px 20px;text-transform: uppercase;}
+	.input-key {border: 1px solid rgb(204, 204, 204);border-radius: 6px;margin-bottom: 20px;padding-left: 20px;width: 100%;}
+	.input-key input[type="text"] {border:none;height: 54px;width:97%;font-size:24px;}
+	.input-key .fa.fa-search{font-size:20px;}
+	.area > .sector {border: 1px solid rgb(204, 204, 204);border-radius: 5px;display: inline-block;height: 54px;margin-right: 11px;padding: 14px 0 14px 20px;width: 24%;font-size:20px;color:#a0a0a0;position:relative;}
+	.area {width: 100%;margin-bottom:20px;}
+	.area > .sector:last-child{margin-right:0px;}
+	.sector > a {color: rgb(160, 160, 160);float: right;padding-right: 15px;}
+	.drop-menu{display:none;}
+	.drop-menu {background: none repeat scroll 0 0 rgb(255, 255, 255);left: 0;position: absolute;top: 53px;width: 100%;z-index:999;}
+	.content-text .col-md-6 > p {font-weight: normal;line-height: 30px;}
+	.tummy-text p {font-weight: normal;line-height: 30px;}
+	.social-icon .icon-part {display: inline;text-align: center;}
+	.social-icon {text-align: center;border-top:2px solid rgb(221, 221, 221);border-bottom:2px solid rgb(221, 221, 221);padding:25px 0;margin-top:10px;}
+	.social-icon .icon-part > a {padding: 0 75px;width: 30%;font-size:20px;color:rgb(119, 119, 119);text-decoration:none;}
+	.video-part > a {color: rgb(119, 119, 119);font-size: 20px;padding: 0 20px;}
+	.video-part iframe {margin-bottom: 3px;}
+	.energy-spl-chain-1 {background: none repeat scroll 0 0 rgb(249, 249, 249);font-size: 24px;font-weight: 700;margin: 0 0 16px;padding: 14px 0 14px 20px;text-transform: uppercase;}
+	.area1{margin-bottom:30px;}
+	.top-head {border-bottom: 2px solid rgb(153, 153, 153);color: rgb(255, 51, 0);font-size: 30px;font-weight: 600;padding-bottom: 5px;padding-top: 0;}
+	.page-title.page-title-1 h3 {margin-bottom: 14px;}
+	.top-sub-head {color: rgb(51, 51, 51);font-size: 18px;padding: 15px 0 0;}
+	.company-one {display: inline-block;margin-right: 26px;vertical-align: top;width: 23%;}
+	.company-one:last-child {margin-right: 0;}
+	.company-list-1 {margin-bottom: 15px;}
+	
